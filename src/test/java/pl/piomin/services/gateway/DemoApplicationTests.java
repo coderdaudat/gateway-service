@@ -1,4 +1,4 @@
-package pl.piomin.services.gatewayservice;
+package pl.piomin.services.gateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
